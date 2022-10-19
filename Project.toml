@@ -1,0 +1,13 @@
+name = "AdvancedLayoutCalculator"
+uuid = "3d078299-5027-49aa-9ac9-55df01d4ae3a"
+authors = ["Sh"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
