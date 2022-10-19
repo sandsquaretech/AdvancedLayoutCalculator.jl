@@ -16,6 +16,8 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "String processing" => "processedstring.md",
+        "Piece" => "frequency.md",
     ],
 )
 
